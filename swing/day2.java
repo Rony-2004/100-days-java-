@@ -1,5 +1,5 @@
 // Java program to create three buttons
-      // with caption OK, SUBMIT, CANCEL
+// with caption OK, SUBMIT, CANCEL
 import java.awt.*;
 
 class button {
