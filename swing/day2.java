@@ -1,4 +1,4 @@
-   // Java program to create three buttons
+      // Java program to create three buttons
 // with caption OK, SUBMIT, CANCEL
 import java.awt.*;
 
